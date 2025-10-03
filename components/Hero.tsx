@@ -35,7 +35,7 @@ const Hero: React.FC = () => {
             />
             
             <Image 
-              src="/images/main section.png" 
+              src="/images/first-section.png" 
               alt="AHS Mascot shaking hands with a child" 
               className="relative z-10 w-full max-w-md lg:max-w-lg object-contain"
               width={500}
